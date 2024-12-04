@@ -1,6 +1,7 @@
 
 # E-commerce sales analysis
 
+![paris.png](https://github.com/saicharannetha/E-Commerce-Sales-Analysis/blob/main/E-Commerce-Sales-Analysis(1).jpeg)
 
 ## overview
 **E-Commerce Sales Analysis using Power BI**  
